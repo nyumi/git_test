@@ -1,3 +1,3 @@
 # git_test
 
-test
+sample
